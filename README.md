@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C6FFDD,50:FBD786,100:f7797d&height=300&section=header&text=Welcome!&fontSize=55&fontAlignY=40&animation=twinkling&fontColor=8c6954&desc=Hyegyeong's%20Github&descAlignY=57&descSize=23" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C6FFDD,50:FBD786,100:f7797d&height=250&section=header&text=Welcome!&fontSize=55&fontAlignY=40&animation=twinkling&fontColor=8c6954&desc=Hyegyeong's%20Github&descAlignY=57&descSize=23" />
