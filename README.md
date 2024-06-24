@@ -6,9 +6,4 @@
 <p align="center">Email: gju06061@gmail.com</p>
 <p align="center">Blog: https://velog.io/@woonyumnyum/posts</p>
 <br>
-
-<h3 align="center">✨ Stats ✨</h3>
-<div align="center">
-  
-![혜경's GitHub stats](https://github-readme-stats.vercel.app/api?username=whk06061&show_icons=true&theme=vue)
 </div>
