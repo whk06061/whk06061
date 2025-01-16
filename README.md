@@ -4,6 +4,7 @@
 <h3 align="center">🙋🏻‍♀️ 안녕하세요, 안드로이드를 공부하고 있는 우혜경입니다.</h3>
 <h3 align="center">✨ Contact ✨</h3>
 <p align="center">Email: gju06061@gmail.com</p>
-<p align="center">Blog: https://velog.io/@woonyumnyum/posts</p>
+<p align="center">Tistory: https://wooyumyum.tistory.com/</p>
+<p align="center">Velog: https://velog.io/@woonyumnyum/posts</p>
 <br>
 </div>
